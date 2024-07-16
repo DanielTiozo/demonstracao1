@@ -1,8 +1,3 @@
-/*3 jeitos de criar variaveis
-var - não é mais usado / foi descontinuado
-let - pode trocar o valor depois
-const - mantêm o valor é constante
-*/
 const formulario = document.querySelector(".formulario-fale-conosco")
 const mascara = document.querySelector(".mascara-formulario")
 
