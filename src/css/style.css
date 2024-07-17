@@ -145,9 +145,6 @@ p{
 }
 
 @media(max-width: 1100px){
-    p{
-        display: none;
-    }
 
     .caixa-mae{
         flex-direction: column;
